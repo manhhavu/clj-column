@@ -1,13 +1,3 @@
 # clj-column
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Clojure's library of column-based (Excel, CSV, ...) file reader/writer

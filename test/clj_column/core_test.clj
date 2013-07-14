@@ -20,3 +20,4 @@
         (is (= (:COL_2 line) "Name 2"))
         (is (= (:COL_3 line) (.parse (java.text.SimpleDateFormat "MM/dd/yyyy") "12/30/2014")))
         (is (= (:COL_4 line) 28))))))
+

@@ -31,10 +31,10 @@
   (with-open [in (FileInputStream. path)]
     (let [wb (WorkbookFactory/create in)
           sh (.getSheetAt wb 0)
-          header (read-excel-header (.getRow sh 0))]
+          hdr (read-excel-header (.getRow sh 0))]
       (for [r (range 1 (inc (.getLastRowNum sh)))
             row (read-excel-row (.getRow sh r))]
-          (zipmap header row)))))
+          (zipmap hdr row)))))
 
 
 

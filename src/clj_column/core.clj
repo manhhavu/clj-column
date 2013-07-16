@@ -44,8 +44,13 @@
 (defn read-tsv-file [path cols]
   (with-open [rdr (clojure.java.io/reader path)]
     (doseq [line (line-seq rdr)]
-      (let [parsed (parse-tsv line)
-            merged (zipmap cols parsed)]
+      (let [parsed (parse-tsv line)]
+        (zipmap cols parsed)))))
+
+(defn read-csv-file [path cols]
+  (with-open [rdr (clojure.java.io/reader path)]
+    (doseq [line (line-seq rdr)]
+      (let [parsed (parse-csv line)]
         (zipmap cols parsed)))))
 
 

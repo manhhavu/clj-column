@@ -1,0 +1,144 @@
+4034748	Waterwitch Seamount	Waterwitch Seamount	Waterwitch Bank,Waterwitch Seamount	-12.5	-176.75	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034749	Wallis et Futuna	Wallis et Futuna	'Uvea mo Futuna,Ilhas Wallis e Futuna,Kepulauan Wallis dan Futuna,Nisoi Ouallis kai Foutouna,Oileain Vailis agus Futuna,Oileáin Vailís agus Futúna,Orileede Wali ati futuna,Orílẹ́ède Wali ati futuna,Ostrova Uollis i Futuna,Ouollis kai Phoutouna,Territoire des Iles Wallis et Futuna,Territoire des Îles Wallis et Futuna,Uolis i Futuna,Uollis i Futuna,Vailis agus Futuna,Vailís agus Futúna,Valis i Futuna,Valis i Futuna Ostrva,Valis və Futuna,Valis-et-Futuna,Valiso kaj Futuno,Volis i Futuna ostrovi,Volis ir Futuna,Volis ir Futūna,Volisa un Futuna,Volisa un Futunas salas,Volisa un Futūna,Vyspy Uolis i Futuna,Walis Da Futuna,Walis e Futuna,Walis na Futuna,Walise ne Futuna,Walisi na Futuna,Walisi ne Futuna,Walisi-ni-Futuna,Walisɛ mpé Futuna,Wallis a Futuna,Wallis aamma Futuna,Wallis and Futuna,Wallis dan Futuna,Wallis e Futuna,Wallis e Futuna Insuli,Wallis en Futuna,Wallis es Futuna,Wallis et Futuna,Wallis eta Futuna,Wallis ha Futuna,Wallis i Futuna,Wallis in Futuna,Wallis ja Futuna,Wallis kple Futuna nutome,Wallis ne Futuna,Wallis och Futuna,Wallis og Futuna,Wallis og Futunaoerne,Wallis og Futunaøerne,Wallis si Futuna,Wallis sy Futuna,Wallis und Futuna,Wallis va Futuna,Wallis ve Futuna,Wallis ve Futuna Adalari,Wallis ve Futuna Adaları,Wallis và Futuna,Wallis y Futuna,Wallis és Futuna,Wallis şi Futuna,Wallis și Futuna,Wallis- es Futuna-szigetek,Wallis- ja Futunasaaret,Wallis- och Futunaoearna,Wallis- och Futunaöarna,Wallis- og Futunaeyjar,Wallis- og Fútúnaeyjar,Wallis- és Futuna-szigetek,Wallis-et-Futuna,Wallis-og-Futuna,Wallisas ir Futuna,Walîsi na Futuna,Wyspy Wallis i Futuna,i-Wallis ne-Futuna,jzr wals wfwtwna,oyalisa o phutuna,valis mariyu phyutyuna,valis marrum hputuna tivukal,valis mattu phutuna,valisa ani phyucuna,valisa aura fyucuna,valisa ra phutuna,volisa enda phyucuna a'ilendsa,wa li si he fu tu na,wa li si ji fu tu na qun dao,walis ebam phutuna,walliseu-putuna jedo,wals wfwtwna,walys w fywtwna,wari e futo~una zhu dao,wolliseu putuna,ʻUvea mo Futuna,Νήσοι Ουαλλίς και Φουτουνά,Ουώλλις και Φουτούνα,Валис и Футуна,Валис и Футуна Острва,Волис и Футуна острови,Выспы Ўоліс і Футуна,Острова Уоллис и Футуна,Уолис и Футуна,Уоллис и Футуна,Уолліс і Футуна,Уоліс і Футуна,איי ווליס ופוטונה,ואליס ופוטונה,جزر والس وفوتونا,والس وفوتونا,والیس و فیوتونا,ویلیز اور فیوٹیونا,वालिस आणि फ्यूचूना,वालिस और फ़्यूचूना,वालिस र फुटुना,ওয়ালিস ও ফুটুনা,વૉલિસ એંડ ફ્યુચુના આઇલેન્ડ્સ,ୱାଲିସ୍ ଏବଂ ଫୁତୁନା,வாலிஸ் மற்றும் ஃபுடுனா தீவுகள்,వాలిస్ మరియు ఫ్యుత్యునా,ವಾಲಿಸ್ ಮತ್ತು ಫುಟುನಾ,വാലിസ് ആന്‍ഡ് ഫ്യുചൂന,วาลลิสและฟุตูนา,ვალისი და ფუტუნა,ዋሊስ እና ፉቱና ደሴቶች,ウォリス・フツナ,ワリー エ フトゥーナ諸島,瓦利斯及富圖納群島,瓦利斯和富图纳,왈리스-푸투나 제도,월리스 푸투나	-13.3	-176.2	A	PCLD	WF	WF	00				16025		18	Pacific/Wallis	2012-01-06
+4034750	Wallis Islands	Wallis Islands	Iles Uea,Iles Wallis,Uvea,Wallis Archipelago,Wallis Islands,Îles Wallis	-13.3	-176.16667	T	ISLS	WF	WF	00				0		10	Pacific/Wallis	2012-01-18
+4034751	Pointe Verte	Pointe Verte	Green Point,Pointe Verte	-14.32527	-178.03087	T	PT	WF	WF	00				0		-9999	Pacific/Wallis	2013-05-01
+4034752	Pointe Velé	Pointe Vele		-14.3083	-178.05456	T	PT	WF		00				0		-9999	Pacific/Wallis	2013-05-01
+4034753	Velé	Vele		-14.31021	-178.06538	P	PPL	WF		98611				309		-9999	Pacific/Wallis	2013-05-01
+4034754	Vaitupu	Vaitupu		-13.23333	-176.15	P	PPL	WF		00				601		-9999	Pacific/Wallis	2006-01-17
+4034755	Vaimatau	Vaimatau		-13.31667	-176.2	P	PPL	WF		00				0		50	Pacific/Wallis	1993-12-22
+4034756	Pointe Vailala	Pointe Vailala	Pointe Vailala,Vailola	-13.21667	-176.16667	T	PT	WF	WF	00				0		1	Pacific/Wallis	2012-01-18
+4034757	Vailala	Vailala	Vailala	-13.21667	-176.15	P	PPL	WF		00				451		-9999	Pacific/Wallis	2012-05-06
+4034758	Île Uvea	Ile Uvea	Ile Uea,Ile Uvea,Ouvea,Ouvéa,Wallis Island,Île Uvea	-13.3	-176.16667	T	ISL	WF	WF	00				0		10	Pacific/Wallis	2012-01-18
+4034759	Circonscription d'Uvéa	Circonscription d'Uvea		-13.3	-176.2	A	ADM1	WF		98613				0		18	Pacific/Wallis	2013-05-24
+4034760	Pointe Utuloko	Pointe Utuloko		-13.3	-176.15	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034761	Utuloa	Utuloa		-13.26667	-176.18333	P	PPL	WF		00				0		100	Pacific/Wallis	1993-12-22
+4034762	Pointe Utuhamia	Pointe Utuhamia		-13.33333	-176.15	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034763	Utufua	Utufua	Utufua	-13.35	-176.15	P	PPL	WF		00				751		-9999	Pacific/Wallis	2012-05-06
+4034764	Île Uluiutu	Ile Uluiutu		-13.2	-176.15	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034765	Tuscarora Seamount	Tuscarora Seamount	Banka Tuskarora,Tuscarora Bank,Tuscarora Seamount,Tuscaroro Seamount	-11.83333	-178.25	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034766	Tufuone	Tufuone		-13.21667	-176.16667	P	PPL	WF		00				240		1	Pacific/Wallis	2006-01-17
+4034767	Pointe Tepako	Pointe Tepako	Pointe Tepako,Tepoko Point	-13.26667	-176.13333	T	PT	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034768	Tepa	Tepa		-13.31667	-176.15	P	PPL	WF		00				244		-9999	Pacific/Wallis	2006-01-17
+4034769	Île Tekaviki	Ile Tekaviki		-13.26667	-176.11667	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034770	Teesi	Teesi	Teesi,Teesse,Téessé	-13.35	-176.16667	P	PPL	WF		00				284		-9999	Pacific/Wallis	2012-01-18
+4034771	Taviuni Reef	Taviuni Reef	Banca Tabiuni,Taviuni Bank,Taviuni Reef,Taviuni Seamount	-12.1	-174.58333	H	RF	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034772	Tauai	Tauai		-14.23333	-178.16667	P	PPL	WF		98612				244		-9999	Pacific/Wallis	2012-10-17
+4034773	Rocher du Sud-Ouest	Rocher du Sud-Ouest	Rocher du Sud-Ouest,Southwest Rock	-14.31667	-178.15	T	RK	WF	WF	00				0		4	Pacific/Wallis	2012-01-18
+4034774	Rochers Somaloma	Rochers Somaloma	Rochers Somaloma,Rochers Somaruma,Rochers de Champeaux,Somalama	-14.21667	-178.18333	T	RKS	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034775	Mont Singavi	Mont Singavi	Mont Singavi,Mount Puke,Mount Schouten,Sommet Singavi,Sommet de Schouwen	-14.26667	-178.15	T	MT	WF	WF	00				0		339	Pacific/Wallis	2012-01-18
+4034776	Circonscription de Sigavé	Circonscription de Sigave	Singave	-14.25	-178.15	A	ADM1	WF		98612				1894		-9999	Pacific/Wallis	2013-05-24
+4034777	Anse de Sigavé	Anse de Sigave	Anse de Sigave,Anse de Sigavé,Sigave Bay,Singave Bay	-14.3	-178.16667	H	COVE	WF	WF	00				0		203	Pacific/Wallis	2012-01-18
+4034778	Sigavé	Sigave	Leava,Sigave,Sigavé,Singave	-14.3	-178.16667	P	PPL	WF		98612				480		203	Pacific/Wallis	2012-10-17
+4034779	Siafiafi Seamount	Siafiafi Seamount	Banc Safiafi,Siafiafi Bank,Siafiafi Seamount	-12.25	-175.5	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034780	Pointe Sauma	Pointe Sauma	Pointe Sauma,Pointe de Volta,Rocky Point	-14.33608	-178.00289	T	PT	WF	WF	00				0		1	Pacific/Wallis	2013-05-01
+4034781	Chenal Sain	Chenal Sain		-14.31944	-178.06177	H	CHNM	WF		00				0		1	Pacific/Wallis	2013-05-01
+4034782	Pointe de Sable	Pointe de Sable		-14.3236	-178.04443	T	PT	WF		00				0		-9999	Pacific/Wallis	2013-05-01
+4034783	Pointe Rouge	Pointe Rouge	Pointe Rouge,Red Point	-13.35	-176.15	T	PT	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034784	Rotumah Reef	Rotumah Reef	Rotuma Shoal,Rotumah Reef,Rotumah Shoal	-13.41667	-179.35	H	RF	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034785	Pointe Rocheuse	Pointe Rocheuse		-14.23333	-178.16667	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034786	Robbie Ridge	Robbie Ridge		-10.25	-175	U	RDGU	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034787	Robbie Bank	Robbie Bank		-11.05	-176.88333	H	RF	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034788	Sommet des Pyramides	Sommet des Pyramides		-14.25	-178.15	T	PK	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034789	Pointe Pyramides	Pointe Pyramides		-14.25	-178.13333	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034790	Pointe Puko	Pointe Puko		-13.36667	-176.18333	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034791	Pointe Pukega	Pointe Pukega	Pointe Pakega,Pointe Pukega,Pugega Point,Pukenga Point	-13.28333	-176.21667	T	PT	WF	WF	00				0		54	Pacific/Wallis	2012-01-18
+4034792	Petit Piton	Petit Piton	Little Peak,Petit Piton	-14.25	-178.18333	T	PK	WF	WF	00				0		50	Pacific/Wallis	2012-01-18
+4034793	Morne du Pavillon	Morne du Pavillon		-14.28333	-178.16667	T	HDLD	WF		00				0		126	Pacific/Wallis	1993-12-22
+4034794	Pasco Reef	Pasco Reef	PAsco Bank,Pasco Reef,Pasco Seamount	-13.08333	-174.41667	H	RF	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034795	Pointe Pagaga	Pointe Pagaga		-13.38333	-176.18333	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034796	Baie de l'Ouest	Baie de l'Ouest	Baie de l'Ouest,West Bay	-13.25	-176.21667	H	HBR	WF		00				0		38	Pacific/Wallis	2012-01-18
+4034797	Île Nukuteatea	Ile Nukuteatea		-13.2	-176.13333	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034798	Île Nukutapu	Ile Nukutapu		-13.36667	-176.18333	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034799	Île Nukutapu	Ile Nukutapu		-13.21667	-176.13333	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034800	Îlot Nukutaakimua	Ilot Nukutaakimua	Ilot Nukutaakimua,Nuku Akimoa,Rocher Nukutaakimua,Sail Rock,Îlot Nukutaakimua	-13.36667	-176.16667	T	ISL	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034801	Île Nukuofo	Ile Nukuofo		-13.35	-176.18333	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034802	Île Nukuloa	Ile Nukuloa		-13.18333	-176.15	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034803	Île Nukulaelae	Ile Nukulaelae		-13.18333	-176.16667	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034804	Île Nukuhione	Ile Nukuhione	Ile Nukuhione,Illa Nukuhione,Île Nukuhione	-13.26667	-176.1	T	ISL	WF		00				0		-9999	Pacific/Wallis	2012-01-18
+4034805	Île Nukuhifala	Ile Nukuhifala		-13.28333	-176.08333	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034806	Île Nukufufulanoa	Ile Nukufufulanoa		-13.2	-176.15	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034807	Îlot Nukufotu	Ilot Nukufotu	Ile Nukufutu,Ile Nukuloa,Ilot Nukufotu,Île Nukufutu,Île Nukuloa,Îlot Nukufotu	-13.18333	-176.16667	T	ISL	WF	WF	00				0		-9999	Pacific/Wallis	2013-05-08
+4034808	Îlot Nuku Fetau	Ilot Nuku Fetau	Ilot Nuku Fetau,Nuku Futu Island,Nukufetao,Îlot Nuku Fetau	-13.35	-176.15	T	ISL	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034809	Île Nukuaéta	Ile Nukuaeta	Ile Nukuaera,Ile Nukuaeta,Nukuatea Island,Nukuitea,Sainte Marie Island,Île Nukuaera,Île Nukuaéta	-13.36667	-176.18333	T	ISL	WF	WF	00				0		-9999	Pacific/Wallis	2013-05-08
+4034810	Pointe Nord	Pointe Nord	North Point,Pointe Nord	-14.23333	-178.18333	T	PT	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034811	Pointe Mua	Pointe Mua		-13.35	-176.18333	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034812	Mouillage de Mua	Mouillage de Mua	Mouillage de Mua,Mua Anchorage	-14.32244	-178.05679	H	ANCH	WF	WF	00				0		-9999	Pacific/Wallis	2013-05-01
+4034813	Mouillage de Mua	Mouillage de Mua		-13.35	-176.15	H	ANCH	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034814	Baie de Mua	Baie de Mua	Baie de Mua,Baie de l'Allier	-13.38333	-176.15	H	HBR	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034815	Mua	Mua	Alofitai,Mua	-14.35	-178.05	P	PPL	WF	WF	98611				0		167	Pacific/Wallis	2012-10-17
+4034816	Mua	Mua	Loto Mua,Mua	-13.35	-176.16667	P	PPL	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034817	Banc de la Meurthe	Banc de la Meurthe		-14.35	-177.96667	H	BNK	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034818	Sommet Matsi	Sommet Matsi		-14.25	-178.16667	T	PK	WF		00				0		102	Pacific/Wallis	1993-12-22
+4034819	Mouillage de Matâ'utu	Mouillage de Mata'utu		-13.3	-176.11667	H	ANCH	WF		00				0		-9999	Pacific/Wallis	1998-11-18
+4034820	Baie de Matâ'utu	Baie de Mata'utu		-13.31667	-176.11667	H	HBR	WF		00				0		-9999	Pacific/Wallis	1998-11-18
+4034821	Mata-Utu	Mata-Utu	Gorad Mata-Utu,Mata Utu,Mata'utu,Mata-Outou,Mata-Utu,Matauto,Matâ'utu,Matāʻutu,ma ta wu tu,mata-atw,mata-xu tu,matauto~u,matautu,Μάτα-Ούτου,Горад Мата-Уту,Мата-Уту,ماتا-اتو,มาตา-อูตู,მატა-უტუ,マタウトゥ,马塔乌图,마타우투	-13.28163	-176.17453	P	PPLC	WF	WF	98613				1200		15	Pacific/Wallis	2012-02-07
+4034822	Pointe Matalaa	Pointe Matalaa	Pointe Matala,Pointe Matalaa	-13.33333	-176.13333	T	PT	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034823	Mouillage de Matalaa	Mouillage de Matalaa		-13.33333	-176.13333	H	ANCH	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034824	Pointe Matakaviki	Pointe Matakaviki		-13.38333	-176.13333	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034825	Pointe Mataaho	Pointe Mataaho		-13.36667	-176.18333	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034826	Mamelon Vert	Mamelon Vert	Mamalon Vert,Mamelon Vert	-14.35	-177.98333	T	PK	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034827	Mont Lulu Luo	Mont Lulu Luo		-13.26667	-176.15	T	HLL	WF		00				0		14	Pacific/Wallis	1993-12-22
+4034828	Mont Lulu Fakahega	Mont Lulu Fakahega	Lulu Hill,Mont Lula,Mont Lulu,Mont Lulu Fakahega	-13.26667	-176.16667	T	HLL	WF	WF	00				0		31	Pacific/Wallis	2012-01-18
+4034829	Île Luaniva	Ile Luaniva		-13.26667	-176.11667	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034830	Mont Loka	Mont Loka	Loka Hill,Mont Afala,Mont Loka,Mount Loko	-13.26667	-176.15	T	HLL	WF	WF	00				0		14	Pacific/Wallis	2012-01-18
+4034831	Liku	Liku		-13.26667	-176.13333	P	PPL	WF		00				696		-9999	Pacific/Wallis	2006-01-17
+4034832	Les Deux Lions	Les Deux Lions	Les Deux Lions,Les Lions,Rochers Lion,The Lions,The Two Lions	-14.3	-178.16667	T	RKS	WF	WF	00				0		203	Pacific/Wallis	2012-01-18
+4034833	Pointe Lausikula	Pointe Lausikula		-13.31667	-176.21667	T	PT	WF		00				0		42	Pacific/Wallis	1993-12-22
+4034834	Mont Lausikula	Mont Lausikula		-13.31667	-176.21667	T	HLL	WF		00				0		42	Pacific/Wallis	1993-12-22
+4034835	Lac Lanutuli	Lac Lanutuli	Lac Lanutuli,Lac Lauituli	-13.31667	-176.18333	H	LKC	WF	WF	00				0		2	Pacific/Wallis	2012-01-18
+4034836	Lac Lanutavake	Lac Lanutavake		-13.31667	-176.18333	H	LKC	WF		00				0		2	Pacific/Wallis	1993-12-22
+4034837	Lanumaha	Lanumaha		-13.31667	-176.16667	T	CRTR	WF		00				0		1	Pacific/Wallis	1993-12-22
+4034838	Lac Lano	Lac Lano		-13.3	-176.2	H	LKC	WF		00				0		18	Pacific/Wallis	1993-12-22
+4034839	Lano	Lano		-13.25	-176.13333	P	PPL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034840	Lac Lalolalo	Lac Lalolalo		-13.3	-176.2	H	LKC	WF		00				0		18	Pacific/Wallis	1993-12-22
+4034841	Pointe Lalofétau	Pointe Lalofetau		-13.38333	-176.13333	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034842	Lalla Rookh Seamount	Lalla Rookh Seamount	Lalla Rookh Bank,Lalla Rookh Seamount	-12.91667	-175.66667	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034843	Kolopopo	Kolopopo	Kolopopo	-13.35	-176.16667	P	PPL	WF		00				171		-9999	Pacific/Wallis	2012-05-06
+4034844	Mont Kolofau	Mont Kolofau	Mont Bougainville,Mont Kolofau,Sommet Bougainville	-14.35	-178.03333	T	MT	WF	WF	00				0		76	Pacific/Wallis	2012-01-18
+4034845	Kolia	Kolia		-14.30751	-178.09683	P	PPL	WF		98611				437		38	Pacific/Wallis	2013-05-01
+4034846	Lac Kikila	Lac Kikila		-13.3	-176.15	H	LK	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034847	Isabella Reef	Isabella Reef	Isabella Bank,Isabella Reef,Isabella Seamount	-12.41667	-177.41667	H	RF	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034848	Îles de Horne	Iles de Horne	Futuna Archipelago,Hoorne Islands,Iles Futuna,Iles de Hoorn,Iles de Horn,Iles de Horne,Îles de Horne	-14.31667	-178.08333	T	ISLS	WF	WF	00				0		1	Pacific/Wallis	2012-01-18
+4034849	Passe Honikulu	Passe Honikulu		-13.38333	-176.18333	H	INLT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034850	Home Seamount	Home Seamount	Banc Home,Home Knoll,Home Seamount,Homeknoll Island	-12.91667	-175.61667	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034851	Mont Hologa	Mont Hologa		-13.28333	-176.18333	T	HLL	WF		00				0		26	Pacific/Wallis	1993-12-22
+4034852	Mont Holo	Mont Holo		-13.28333	-176.16667	T	HLL	WF		00				0		106	Pacific/Wallis	1993-12-22
+4034853	Île Haofa	Ile Haofa		-13.36667	-176.16667	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034854	Halamaitai	Halamaitai		-13.28333	-176.13333	P	PPL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034855	Pointe Halalo	Pointe Halalo	Haalalo Point,Pointe Halalo	-13.35	-176.18333	T	PT	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034856	Halalo	Halalo	Ha'alalo,Halalo	-13.35	-176.18333	P	PPL	WF		00				635		-9999	Pacific/Wallis	2012-01-18
+4034857	Haatofo	Haatofo		-13.33333	-176.15	P	PPL	WF		00				236		-9999	Pacific/Wallis	2006-01-17
+4034858	Haafusia	Haafusia		-13.3	-176.15	P	PPL	WF		00				426		-9999	Pacific/Wallis	2006-01-27
+4034859	Gamua	Gamua		-13.25	-176.13333	P	PPL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034860	Gahi	Gahi	Gahi	-13.33333	-176.15	P	PPL	WF		00				280		-9999	Pacific/Wallis	2012-05-06
+4034861	Futuna Island	Futuna Island	FUT,Futuna Island,Ile Futuna,Île Futuna	-14.28801	-178.12511	T	ISL	WF		00				0		-9999	Pacific/Wallis	2013-05-01
+4034862	Îlot Fungalei	Ilot Fungalei	Fungalai Island,Illot Fungalei,Ilot Fongalei,Ilot Fungalei,Îlot Fongalei,Îlot Fungalei	-13.28333	-176.11667	T	ISL	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034863	Passe Fugauvea	Passe Fugauvea	Fungauvea Pass,Passe Fugauvea	-13.25	-176.21667	H	INLT	WF	WF	00				0		38	Pacific/Wallis	2012-01-18
+4034864	Foss Reef	Foss Reef	Foss Bank,Foss Reef	-14.41667	-176	H	RF	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034865	Foi	Foi		-14.29445	-178.09289	P	PPL	WF		98611				0		-9999	Pacific/Wallis	2013-05-01
+4034866	Pointe Fogoné	Pointe Fogone		-13.35	-176.16667	T	PT	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034867	Fineveke	Fineveke	Fineveke	-13.31667	-176.2	P	PPL	WF		00				0		50	Pacific/Wallis	2012-05-06
+4034868	Pointe Finékovi	Pointe Finekovi	Point Finekova,Pointe Finekovi,Pointe Finékovi	-13.36667	-176.13333	T	PT	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034869	Field Seamount	Field Seamount	Field Bank,Field Seamount	-12.28333	-174.8	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034870	Île Fenua Fu	Ile Fenua Fu	Entrance Island,Feletoa,Ile Fenua Foou,Ile Fenua Fu,Île Fenua Fu,Île Fénua Foou	-13.38333	-176.18333	T	ISL	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034871	Passe Fatumanini	Passe Fatumanini		-13.23333	-176.21667	H	INLT	WF		00				0		20	Pacific/Wallis	1993-12-22
+4034872	Falaleu	Falaleu	Falaleu	-13.3	-176.15	P	PPL	WF		00				659		-9999	Pacific/Wallis	2012-05-06
+4034873	Pointe Falaise	Pointe Falaise		-14.30032	-178.07327	T	PT	WF		00				0		-9999	Pacific/Wallis	2013-05-01
+4034874	Fakauita	Fakauita		-13.25	-176.18333	P	PPL	WF		00				0		23	Pacific/Wallis	1993-12-22
+4034875	Passe Faïoa	Passe Faioa	Passe Faioa,Passe Faïoa,Passe Foioa	-13.36667	-176.15	H	CHNM	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034876	Île Faïoa	Ile Faioa		-13.38333	-176.13333	T	ISL	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034877	Combe Seamount	Combe Seamount	Combe Bank,Combe Seamount	-12.53333	-177.58333	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+4034879	Passe Avatolu	Passe Avatolu		-13.31667	-176.23333	H	INLT	WF		00				0		6	Pacific/Wallis	1993-12-22
+4034880	Mont Atalika	Mont Atalika		-13.33333	-176.18333	T	HLL	WF		00				0		1	Pacific/Wallis	1993-12-22
+4034881	Lac Alofivai	Lac Alofivai		-13.26667	-176.13333	H	LK	WF		00				0		-9999	Pacific/Wallis	1993-12-22
+4034882	Île Alofi	Ile Alofi	Alofa,Ile Alofi,Île Alofi	-14.33857	-178.04117	T	ISL	WF	WF	00				0		20	Pacific/Wallis	2013-05-01
+4034883	Pointe d'Alo	Pointe d'Alo		-14.31667	-178.11667	T	PT	WF		00				0		1	Pacific/Wallis	1993-12-22
+4034884	Circonscription d'Alo	Circonscription d'Alo		-14.30664	-178.11876	A	ADM1	WF		98611				2998		1	Pacific/Wallis	2013-05-24
+4034885	Alo	Alo	Alo,Malae	-14.31667	-178.11667	P	PPL	WF		98611				239		1	Pacific/Wallis	2012-10-17
+4034886	Alele	Alele	Alele	-13.23333	-176.15	P	PPL	WF		00				901		-9999	Pacific/Wallis	2012-05-06
+4034887	Akaka	Akaka		-13.26667	-176.13333	P	PPL	WF		00				589		-9999	Pacific/Wallis	2006-01-27
+4034888	Ahoa	Ahoa	Ahoa	-13.28333	-176.2	P	PPL	WF		00				495		124	Pacific/Wallis	2012-05-06
+4034889	Adolph Seamount	Adolph Seamount	Adolph Knoll,Adolph Seamount,Banc Adolph	-11.91667	-178.16667	U	SMU	WF	WF	00				0		-9999	Pacific/Wallis	2012-01-18
+6299958	Pointe Vele Airport	Pointe Vele Airport	Aeroport de Futuna - Pointe-Vele,Aéroport de Futuna - Pointe-Vele,FUT,NLWF,Pointe Vele Airport	-14.31163	-178.06752	S	AIRP	WF						0	6	-9999	Pacific/Wallis	2013-05-01
+6299959	Hihifo Airport	Hihifo Airport	Hihifo Airport,Hihifo Ile Wallis,NLWW,WLS	-13.23828	-176.19923	S	AIRP	WF						0	24	19	Pacific/Wallis	2011-03-28
+6942150	Wallis and Futuna Islands	Wallis and Futuna Islands		-14.30181	-178.10932	T	ISLS	WF						0		2	Pacific/Wallis	2013-05-01

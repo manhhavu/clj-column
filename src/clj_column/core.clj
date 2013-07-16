@@ -36,6 +36,18 @@
             row (read-excel-row (.getRow sh r))]
           (zipmap hdr row)))))
 
+(defn parse-csv[s] (if (empty? s) [] (clojure.string/split s #",")))
+
+(defn parse-tsv[s]   
+  (clojure.string/split s #"\t"))
+
+(defn read-tsv-file [path cols]
+  (with-open [rdr (clojure.java.io/reader path)]
+    (doseq [line (line-seq rdr)]
+      (let [parsed (parse-tsv line)
+            merged (zipmap cols parsed)]
+        (zipmap cols parsed)))))
+
 
 
 
